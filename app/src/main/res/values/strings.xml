@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="dashboard_title">Student Academic Portal</string>
+    <string name="dashboard_subtitle">Calculate performance, tracking grades &amp; SQLite records</string>
+    <string name="nav_calculator">Grade Calculator</string>
+    <string name="nav_calculator_desc">Calculate grade, GPA and academic performance</string>
+    <string name="nav_history">Saved Records</string>
+    <string name="nav_history_desc">View, search and manage saved student grades</string>
+    <string name="quick_stats">Quick Statistics</string>
+    <string name="total_records">Total Records</string>
+    <string name="avg_gpa">Average GPA</string>
+    <string name="btn_calculate">Calculate Grade</string>
+    <string name="btn_save">Save to Database</string>
+    <string name="btn_reset">Reset</string>
+    <string name="search_hint">Search student or subject&#8230;</string>
+</resources>
